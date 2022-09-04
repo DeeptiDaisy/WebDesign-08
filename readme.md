@@ -29,3 +29,5 @@ In style.css file i write all the code for the styling .
 > Images Folder
 
 - It contains all the project images & icons .
+Image of my website
+![image](https://user-images.githubusercontent.com/109961309/188316214-09f2b25c-75be-4d8a-80fb-b37da33aba46.png)
